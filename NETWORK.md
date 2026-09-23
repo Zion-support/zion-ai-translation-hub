@@ -1,11 +1,16 @@
-# 🔗 Zion App Network
+# 🌐 Part of the Zion App Network
 
-This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Zion AI Translation Hub** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full catalog: https://ziontechgroup.com/apps/
-- 📢 Network overview: https://ziontechgroup.com/app-network/
-- 💻 GitHub: https://github.com/Zion-support
-- ✉️ commercial@ziontechgroup.com
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
 
-**Related apps:** [ai-content-translator](https://github.com/Zion-support/ai-content-translator) · [ai-localizer](https://github.com/Zion-support/ai-localizer) · [zion-ai-localization-ops](https://github.com/Zion-support/zion-ai-localization-ops)
+## Related apps
+- [Zion AI Video Translator](https://github.com/Zion-support/zion-ai-video-translator)
+- [Zion AI Voice Translator](https://github.com/Zion-support/zion-ai-voice-translator)
+- [AI Legal Intelligence](https://github.com/Zion-support/ai-legal-intelligence)
+
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
